@@ -1,5 +1,14 @@
-To get data, copy this Link and paste it into your browser, then download the raw CSV files:
+📂 Dataset Access
+Due to GitHub's file size limitations, the raw data files are hosted on Google Drive.
 
----( "https://drive.google.com/drive/folders/1k2vRwulCzMfZxhxEmkNxojoWjuFWof_x?usp=sharing" )---
+Download Link: Airbnb Raw Datasets (Google Drive)
 
-The link contains two folders named ( Listing, Reviews ) 
+---( https://drive.google.com/drive/folders/1k2vRwulCzMfZxhxEmkNxojoWjuFWof_x?usp=sharing )---
+
+Folder Structure:
+
+Listing/: Contains raw property listing CSV files with host details, pricing, room types, and amenities.
+
+Reviews/: Contains raw review and feedback CSV files for sentiment and rating analysis.
+
+Note: Open the link in your browser and download the CSV files into your local project directory before refreshing the Power BI data model.
