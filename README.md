@@ -13,6 +13,8 @@ guest ratings, review behavior, host trust, and seasonality.
 Power-BI-Airbnb-Dashboard-Project/
 │
 ├── Assets
+├── Dashboard/
+│   └── (Google Drive Link)
 ├── Datasets/
 │   └── (Google Drive Link)
 ├── Docs/
