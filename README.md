@@ -9,7 +9,6 @@ guest ratings, review behavior, host trust, and seasonality.
 
 
 ```
-
 Power-BI-Airbnb-Dashboard-Project/
 │
 ├── Assets
@@ -25,7 +24,6 @@ Power-BI-Airbnb-Dashboard-Project/
 │   ├── page02_Market_Ratings.png
 │   └── page03_Reviews_Trust_Seasonality.png
 └── README
-
 ```
 ---
 
@@ -194,4 +192,7 @@ DIVIDE(
 ```dax
 Reviewers = DISTINCTCOUNT(Reviews[reviewer_id])
 ```
-
+---
+## 🌟 About me
+Hey, I am Mohammed Abdul Qader
+I am an aspiring Data Analyst with a strong interest in Dashboarding, Data Warehousing, and Data-Driven decision-making. This project demonstrates my ability to transform data into interactive dashboards, identify meaningful trends, and communicate actionable business insights through data-driven storytelling. I am passionate about learning new technologies and transforming raw data into meaningful business insights.
