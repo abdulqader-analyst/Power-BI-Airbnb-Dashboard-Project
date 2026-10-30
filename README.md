@@ -192,7 +192,10 @@ DIVIDE(
 ```dax
 Reviewers = DISTINCTCOUNT(Reviews[reviewer_id])
 ```
----
+## 🛡️ License
+
+[MIT](LICENSE). Use it, change it, share it, with attribution.
+
 ## 🌟 About me
 Hey, I am Mohammed Abdul Qader
 I am an aspiring Data Analyst with a strong interest in Dashboarding, Data Warehousing, and Data-Driven decision-making. This project demonstrates my ability to transform data into interactive dashboards, identify meaningful trends, and communicate actionable business insights through data-driven storytelling. I am passionate about learning new technologies and transforming raw data into meaningful business insights.
