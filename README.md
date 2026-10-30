@@ -25,7 +25,6 @@ Power-BI-Airbnb-Dashboard-Project/
 │   └── page03_Reviews_Trust_Seasonality.png
 └── README
 ```
----
 
 ## 📌 Project Overview
 
@@ -33,6 +32,7 @@ This project explores a global Airbnb dataset to understand how the platform
 grew, where demand is concentrated, and how hosts and guests behave.
 The dashboard is designed to help stakeholders quickly identify trends,
 top-performing cities, and seasonal patterns.
+
 
 ## 📊 Key Metrics
 
@@ -43,6 +43,7 @@ top-performing cities, and seasonal patterns.
 | Hosts | 182,024 |
 | Property Types | 144 |
 | Total Reviews | 5,373K |
+
 
 ## 🔍 Key Insights
 
@@ -127,7 +128,7 @@ Performed in Power Query:
 8. **Filtered outliers** in price where unrealistic
 9. **Merged/appended** tables where needed
 
----
+
 
 ## 🧮 Key DAX Measures
 
@@ -195,6 +196,7 @@ Reviewers = DISTINCTCOUNT(Reviews[reviewer_id])
 ## 🛡️ License
 
 [MIT](LICENSE). Use it, change it, share it, with attribution.
+
 
 ## 🌟 About me
 Hey, I am Mohammed Abdul Qader
